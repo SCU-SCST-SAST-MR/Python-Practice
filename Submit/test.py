@@ -1,5 +1,5 @@
 def func1(k, i):
-    pass
+    return 1
 
 
 def func2(n):
