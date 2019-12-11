@@ -36,7 +36,7 @@ def func5(lst):
 
 
 def func6(s):
-    con = re.findall(r'[(](?:[-][\d]|[\d])[,](?:[-][\d]|[\d])[)]', s)
+    con = re.findall(r'(-?[0-9],-?[0-9])', s)
     con = list(map(eval, con))
     con.sort(key=lambda z: ((list(z)[0]) ** 2 + (list(z)[1]) ** 2, -list(z)[1]))
     return con
@@ -58,6 +58,6 @@ if __name__ == '__main__':
     print(func4(23389))
     print(func5([1,4,7,3,2,10]))
     print(func6("input(2,3),hello(word,world)and(9,8)"))
-    print(func6("(-3,4)(4,-3)(-4,-3)(3,4)"))
+    print(func6("(-3,4)(4,-3)(-4,-3)(3,3)"))
     print(func7("hello hi hello apple"))
     print(func7('a'))
