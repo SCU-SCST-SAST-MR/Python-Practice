@@ -1,0 +1,16 @@
+"""<a href="http://www.kekenet.com/read/200910/87387.shtml/read/story/pride/">傲慢与偏见</a>"""
+
+"""<div>
+    <p class="course">Course 1 (2.29)</p>
+    <ul>
+        <li> 课程介绍及评分规则 (<a target="_blank" href="http://hlt.suda.edu.cn/~wlchen/ir2016/L0.Introduction.ppt">ppt1</a>)
+        </li>
+    </ul>
+    <p class="course">Assignment 1 (word-count; 10分; 完成时间：2.29-3.7, 最迟3.14上机课检查，过期不侯)</p>
+    <ul>
+        <li> 统计单词频率 (<a target="_blank" href="http://hlt.suda.edu.cn/~wlchen/ir2016/assignment-1-word-count/E1.ppt">ppt2</a>)
+        </li>
+        <li> 数据下载 (<a target="_blank" href="http://hlt.suda.edu.cn/~wlchen/ir2016/assignment-1-word-count/d1.txt">sample-en.txt</a>)
+        </li>
+    </ul>
+"""

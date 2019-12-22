@@ -1,0 +1,3 @@
+{'傲慢与偏见': 'http://www.kekenet.com/read/200910/87387.shtml/read/story/pride/'}
+
+{'ppt1': 'http://hlt.suda.edu.cn/~wlchen/ir2016/L0.Introduction.ppt', 'ppt2': 'http://hlt.suda.edu.cn/~wlchen/ir2016/assignment-1-word-count/E1.ppt', 'sample-en.txt': 'http://hlt.suda.edu.cn/~wlchen/ir2016/assignment-1-word-count/d1.txt'}
